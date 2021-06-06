@@ -13,5 +13,5 @@ What the bot can do:
 - each transcribed message has two buttons: "save" and "delete"
 - the "save" button transfers the message to the MongoDB database
 - the "delete" button removes the transcribed message from the chat
-- the command "/ notes" displays all saved user notes
-- the command "/ delX" deletes the note from the database, X is the note number
+- the command "/notes" displays all saved user notes
+- the command "/delX" delete the note from the database, "X" is the note number
